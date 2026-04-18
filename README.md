@@ -9,9 +9,9 @@
 | Dataset ID | `831019` |
 | Location | Pueblo |
 | Category | Restaurants |
-| Full dataset size | 346 records |
-| Free sample size | 34 records (9.83%) |
-| Last export | 2026-04-07T11:06:52.856853+00:00 |
+| Full dataset size | 345 records |
+| Free sample size | 34 records (9.86%) |
+| Last export | 2026-04-14T11:00:47.757783+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pueblo-colorado-us-sample-831019/releases/download/sample-latest/beamstation_831019_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
