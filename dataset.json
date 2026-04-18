@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete restaurant market coverage for Pueblo, Colorado with a population of over 111k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Pueblo, Colorado, US",
-  "export_job_id": "ac69d2a5-1a09-45d5-b5a4-cf6da47d8df4",
+  "export_job_id": "a029ab03-315d-4960-8c20-0ac3e8e3d7ba",
   "github_org": "Beamstation-Datasets",
   "id_short": 831019,
   "location_name": "Pueblo",
   "location_type": "city",
   "repo_name": "all-restaurants-in-pueblo-colorado-us-sample-831019",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/831019/beamstation_831019_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_pct": 9.83,
+  "sample_pct": 9.86,
   "sample_records": 34,
   "sample_sha256": "40af19bd25fd8278952a7fa179d467d84aaf93eb6d21fefadada595e89655cff",
   "sample_size_bytes": 139987,
-  "total_records": 346,
-  "updated_at": "2026-04-07T11:06:52.856853+00:00"
+  "total_records": 345,
+  "updated_at": "2026-04-14T11:00:47.757783+00:00"
 }
