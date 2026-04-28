@@ -1,6 +1,6 @@
 # All Restaurants in Pueblo, Colorado, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 36 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `831019` |
 | Location | Pueblo |
 | Category | Restaurants |
-| Full dataset size | 256 records |
-| Free sample size | 25 records (9.77%) |
-| Last export | 2026-04-21T11:21:59.429825+00:00 |
+| Full dataset size | 368 records |
+| Free sample size | 36 records (9.78%) |
+| Last export | 2026-04-28T12:01:51.222281+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pueblo-colorado-us-sample-831019/releases/download/sample-latest/beamstation_831019_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
