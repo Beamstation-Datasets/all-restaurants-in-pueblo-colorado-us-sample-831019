@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0fb02f88-f2ae-4b47-b9f0-25010aada297",
+  "export_job_id": "368552ea-7c12-4d8f-9fba-2f7c09e6e444",
   "id_short": 831019,
-  "published_at": "2026-04-28T19:29:43Z",
+  "published_at": "2026-05-05T19:09:49Z",
   "repo_name": "all-restaurants-in-pueblo-colorado-us-sample-831019",
   "sample_asset_name": "beamstation_831019_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/831019/beamstation_831019_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 36,
-  "sample_sha256": "292925f5132e41f7da5f997b2059e66f1d88d725dc13c791d437ca8346dfc5a2",
-  "sample_size_bytes": 127118,
-  "total_records": 368
+  "sample_records": 38,
+  "sample_sha256": "ddabdff517dfae32466ba02da52ca10fa6c2132d87149b6bd32d9d1825510925",
+  "sample_size_bytes": 154726,
+  "total_records": 389
 }
